@@ -1,0 +1,12 @@
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csprojAssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.deps.json
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Data.pdb
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.dll
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\bin\Debug\netcoreapp2.0\Stations.Models.pdb
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.csproj.CopyComplete
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.dll
+C:\Users\Petar Kobakov\Desktop\EF Exam 5 DEC 2017\C# DB Advenced Exam - 5 December 2017 - Skeleton\C# DB Advenced Exam - 5 December 2017 - Skeleton\Stations.Data\obj\Debug\netcoreapp2.0\Stations.Data.pdb
