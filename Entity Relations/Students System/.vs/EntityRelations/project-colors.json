@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4e309f0c-79d3-413d-9e6e-11680a47cb4b": {
+      "ProjectGuid": "4e309f0c-79d3-413d-9e6e-11680a47cb4b",
+      "DisplayName": "EntityRelations",
+      "ColorIndex": 0
+    },
+    "ff59e4de-ce16-40fc-b747-884ebba2d83e": {
+      "ProjectGuid": "ff59e4de-ce16-40fc-b747-884ebba2d83e",
+      "DisplayName": "EntityRelations Lab",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
