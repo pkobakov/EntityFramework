@@ -1,0 +1,12 @@
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\bin\Debug\net6.0\CSharpDbDemo.Library.deps.json
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\bin\Debug\net6.0\CSharpDbDemo.Library.dll
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\bin\Debug\net6.0\ref\CSharpDbDemo.Library.dll
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\bin\Debug\net6.0\CSharpDbDemo.Library.pdb
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.csproj.AssemblyReference.cache
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.AssemblyInfoInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.AssemblyInfo.cs
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.csproj.CoreCompileInputs.cache
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.dll
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\ref\CSharpDbDemo.Library.dll
+C:\Users\Petar Kobakov\Desktop\CSharpDbDemo\CSharpDbDemo.Library\obj\Debug\net6.0\CSharpDbDemo.Library.pdb
